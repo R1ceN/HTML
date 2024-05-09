@@ -1,3 +1,9 @@
 {
-    "plugins": {}
+    "plugins": {
+        "com.intellij.ja": {
+            "dependencies": [
+                "com.intellij.modules.platform"
+            ]
+        }
+    }
 }
